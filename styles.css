@@ -1,0 +1,38 @@
+.menu {
+  /* add correct code to place the menu correctly.*/
+ 
+  background-color: black;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  
+}
+body {
+  background-color: rgb(206, 185, 185);
+}
+.grid {
+  /* add correct code to place the grid elements 
+  one beside the other equally.   */
+  font-size: 59.5%;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  font-weight: 420;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.grid img {
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 50px;
+}
+.origami {
+  border-radius: 20px;
+  background-color:rgb(255, 24, 24);
+  margin: 20px;
+
+  width: 310px;
+  font-family: fantasy;
+}
